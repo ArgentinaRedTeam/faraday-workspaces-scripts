@@ -17,6 +17,7 @@ faraday-workspaces-scripts/
 │   └── triage_workspaces.py     # Realiza un triage de workspaces 📋
 │
 └── README.md                    # ¡Este archivo! 📖
+
 ¿Qué Hace Cada Script? 🌟
 check_schedules.py 📅
 Verifica si tus workspaces tienen tareas programadas para el mes de agosto, ¡para que no te pierdas ningún deadline! ⏰
@@ -34,12 +35,10 @@ faraday-cli instalado (si no lo tienes, instálalo con pip install faraday-cli) 
 ¡A ejecutar!
 Clona o descarga este proyecto 📥
 Navega al directorio del proyecto:
-sh
-Copy code
+
 cd /ruta/a/faraday-workspaces-scripts
 Elige tu script y ejecútalo:
-sh
-Copy code
+
 python3 scripts-1.0/check_schedules.py
 python3 scripts-1.0/check_recent_scans.py
 python3 scripts-1.0/triage_workspaces.py
