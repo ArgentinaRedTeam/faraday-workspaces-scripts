@@ -8,7 +8,6 @@ Este proyecto te brinda un conjunto de scripts Python para automatizar tareas cl
 
 ## Estructura del Proyecto 📁
 
-```plaintext
 faraday-workspaces-scripts/
 │
 ├── scripts-1.0/
