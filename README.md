@@ -6,17 +6,6 @@
 
 Este proyecto te brinda un conjunto de scripts Python para automatizar tareas clave en Faraday, asegurando que tus workspaces estén siempre actualizados y organizados. 🧹
 
-## Estructura del Proyecto 📁
-
-faraday-workspaces-scripts/
-│
-├── scripts-1.0/
-│   ├── check_schedules.py       # Verifica tareas programadas 📅
-│   ├── check_recent_scans.py    # Comprueba scans recientes 🔍
-│   └── triage_workspaces.py     # Realiza un triage de workspaces 📋
-│
-└── README.md                    # ¡Este archivo! 📖
-
 ¿Qué Hace Cada Script? 🌟
 check_schedules.py 📅
 Verifica si tus workspaces tienen tareas programadas para el mes de agosto, ¡para que no te pierdas ningún deadline! ⏰
